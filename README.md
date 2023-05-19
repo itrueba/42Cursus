@@ -1,2 +1,2 @@
 # 42Cursus
-In this repository will be stored all the projects that I will be doing in the course of 42 Urduliz. 
+En este repositorio voy a recopilar todos los proyectos que he realizado en 42 Urduliz. 
